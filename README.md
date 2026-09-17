@@ -1,5 +1,7 @@
 # 💰 Medical Insurance Cost Prediction
 
+**Live Demo:** [https://medical-insurance-cost-prediction-mubeen.streamlit.app/](https://medical-insurance-cost-prediction-mubeen.streamlit.app/)
+
 End-to-end Machine Learning project that predicts medical insurance costs based on personal and lifestyle factors using **Linear Regression**, **Python**, and **Streamlit**.
 
 ---
